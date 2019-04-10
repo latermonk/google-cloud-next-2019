@@ -8,7 +8,7 @@ https://cloud.google.com/run/
 
 
 
-# google-cloud-next-2019
+# Google-cloud-next-2019
 
 
 https://cloud.withgoogle.com/next/sf
@@ -28,7 +28,7 @@ https://twitter.com/hashtag/GoogleNext19?src=hash.
 https://www.youtube.com/watch?v=XGrlWVWlpgE
 
 
-# all session List
+# All session List
 
 https://www.youtube.com/playlist?list=PLIivdWyY5sqIXvUGVrFuZibCUdKVzEoUw
 
