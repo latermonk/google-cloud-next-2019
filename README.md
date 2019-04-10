@@ -20,3 +20,10 @@ https://www.youtube.com/watch?v=XGrlWVWlpgE
 # all session List
 
 https://www.youtube.com/playlist?list=PLIivdWyY5sqIXvUGVrFuZibCUdKVzEoUw
+
+
+# Google Cloud Container Registry public images:
+
+https://console.cloud.google.com/gcr/images/google-containers/GLOBAL
+
+
