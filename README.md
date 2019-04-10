@@ -1,3 +1,13 @@
+# New Product Release
+
+## Cloud anthos
+https://cloud.google.com/anthos/
+
+## Cloud Run
+https://cloud.google.com/run/   
+
+
+
 # google-cloud-next-2019
 
 
